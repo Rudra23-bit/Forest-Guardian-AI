@@ -63,3 +63,12 @@ AI Risk Assessment
 
 
 **Forest Guardian AI** demonstrates the practical application of artificial intelligence, workflow automation, and modern web technologies to improve environmental incident reporting, accelerate response times, and support sustainable forest conservation.
+
+
+
+
+
+
+
+
+![image alt]()
