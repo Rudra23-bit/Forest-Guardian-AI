@@ -71,4 +71,4 @@ AI Risk Assessment
 
 
 
-![image alt]()
+![image alt](https://github.com/Rudra23-bit/Forest-Guardian-AI/blob/main/Screenshot%202026-07-06%20204245.png?raw=true)
